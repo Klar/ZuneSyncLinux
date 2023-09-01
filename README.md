@@ -1,7 +1,7 @@
 # ZuneSyncLinux
 Sync your Zune (HD) from (Arch)-Linux
 
-* sudo pacman -S libmtp gmtp
+* sudo pacman -S libmtp gmtp    // sudo yum install libmtp-examples
 * wget -O ~/.mtpz-data https://raw.githubusercontent.com/kbhomes/libmtp-zune/master/src/.mtpz-data
 * Plug-In Zune
 * Umount Zune (HD) if automatically mounted
